@@ -13,7 +13,7 @@ Here's a list of some relevant projects:
 :no_entry: Disclaimer: **These projects MIGHT be forbidden by Valve and MAY lead to a VAC ban**.
 
 - [@AveYo](https://github.com/AveYo)'s [D-OPTIMIZER](https://github.com/AveYo/D-OPTIMIZER) / [Project Arcana](http://steamcommunity.com/sharedfiles/filedetails/?id=408986743) (uses dota addons / vpk)
-- [@Karrandalf](https://github.com/Karrandalf)'s [D2SpaceModifier](https://github.com/Karrandalf/D2SpaceModifier) (uses AutoHotkey)
+- [@Karrandalf](https://github.com/Karrandalf)'s [D2SpaceModifier: The Sacred Five Lines](https://github.com/Karrandalf/D2SpaceModifier) (uses AutoHotkey)
 
 ### What is this?
 
